@@ -74,17 +74,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 �
 �
 
-<!DOCTYPE html>
-<html>
-<head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title></title>
-</head>
-<body>
-
-		<h1><u>This is a link to see the Output of the react code</u></h1>
-
-		<a href="https://ankit8609.github.io/examplan/public/index.html">Click here to get redirected to the website.</a>
-</body>
-</html>
