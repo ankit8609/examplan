@@ -37,3 +37,25 @@ section.topbar span a{
 .font{
   font-size: 25px;
 }
+.font{
+  font-size: 18px;
+  font-family: roboto;
+}
+.font-reg{
+  font-size: 18px;
+}
+.btm-border{
+  border-bottom: 0.5px solid grey;
+}
+.marquee{
+  min-height: 117px;
+}
+
+.line-height {
+  line-height: 117px;
+  font-size: 40px;
+
+}
+div.examSub a{
+  text-decoration: none;
+}

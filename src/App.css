@@ -36,7 +36,7 @@
     transform: rotate(360deg);
   }
 }
-.font{
+/* .font{
   font-size: 18px;
   font-family: roboto;
 }
@@ -54,4 +54,7 @@
   line-height: 117px;
   font-size: 40px;
 
+} */
+div.examSub a{
+  text-decoration: none;
 }
